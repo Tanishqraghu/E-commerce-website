@@ -1,0 +1,1332 @@
+1. Index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heads-to-Tails</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/1941c615a0.js" crossorigin="anonymous"></script>
+    <link rel="icon" href="img/favicon.png">
+</head>
+<body>
+    
+<script src="script.js"></script>
+
+<section id="header">
+    <a href="#"><img src="img/logo.jpg" class="logo" alt=""> </a>
+    <div>
+        <ul id="navbar">
+            <button>Heads-to-Tails &nbsp <i class="fa-solid fa-dog"></i> </button>
+            <li><a class="active" href="index.html">Home</a></li>
+            <li><a href="#product1">Shop</a></li>
+            <li><a href="https://sitstay.com/blogs/good-dog-blog">Blog</a></li>
+            <li><a href="#contactus">About</a></li>
+            <li><a href="#contactus">Contact</a></li>
+            <li><a href="loginpage.html">Login</a></li>
+            <li><a href="cart.html"><i class="fa-solid fa-cart-shopping" style="color: #030507;"></i></a></li>
+        </ul>
+    </div>
+</section>
+
+<section id="hero">
+<h4>Everything for your furry friend</h4>
+<h2>super saver deals</h2>
+<h1>Get Buy 1 Get 1 Free!<br> On Pet Food</h1>
+<p>save more with coupons (Upto 70% off)</p>
+<form action="#product1"><button >shop now</button></form>
+</section>
+
+<section id="features" class="section-p1">
+    <div class="fe-box">
+        <img src="img/features/f1.jpg" alt="">
+        
+    </div>
+
+    <div class="fe-box">
+        <img src="img/features/f2.png" alt="">
+        
+    </div>
+
+    <div class="fe-box">
+        <img src="img/features/f3.jpg" alt="">
+       
+    </div>
+
+    <div class="fe-box">
+        <img src="img/features/f4.jpg" alt="">
+        
+    </div>
+
+    <div class="fe-box">
+        <img src="img/features/f5.jpg" alt="">
+        
+    </div>
+
+    <div class="fe-box">
+        <img src="img/features/f6.png" alt="">
+        
+    </div>
+
+</section>
+
+<section id="product1" class="section-p1">
+    <h2>Top picks for your pet!</h2>
+    <p>Get Buy One Get One Free on select products</p>
+    <div class="pro-container">
+        <div class="pro">
+            <img src="img/products/f2.jpg" alt="">
+            <div class="des">
+                <span>Pedigree</span>
+                <h5>Pedigree adult dog food 1.2kg</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+
+                  
+
+                </div>
+                <h4>Rs 1200</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/f1.jpg" alt="">
+            <div class="des">
+                <span>Pedigree</span>
+                <h5>Pedigree puppy foog 1.2kg</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    
+
+                </div>
+                <h4>Rs 350</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/f3.jpg" alt="">
+            <div class="des">
+                <span>Pedigree</span>
+                <h5>Pedigree puppy gravy 15 packs</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+
+                </div>
+                <h4>Rs 450</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/f4.jpg" alt="">
+            <div class="des">
+                <span>Drools    </span>
+                <h5>Drools puppy nutrition 3kg</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    
+
+                </div>
+                <h4>Rs 990</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/f5.jpg" alt="">
+            <div class="des">
+                <span>Police K9</span>
+                <h5>Police dog harness (Black)</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    
+
+                </div>
+                <h4>Rs 720</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/f6.jpg" alt="">
+            <div class="des">
+                <span>Heads-to-Tails</span>
+                <h5>Dog collar name tag (Red)</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    
+
+                </div>
+                <h4>Rs 480</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/f7.jpg" alt="">
+            <div class="des">
+                <span>Heads-to-Tails</span>
+                <h5>Dog collar (Set of 4)</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    
+
+                </div>
+                <h4>Rs 1200</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/f8.jpg" alt="">
+            <div class="des">
+                <span>Heads-to_tails</span>
+                <h5>Dog chew toy (Blue)</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+
+                </div>
+                <h4>Rs 400</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        
+
+
+    
+
+
+
+
+</section>
+
+
+<section id="banner" class="section-m1">
+    <h4>Dog Accessories</h4>
+    <h2>Buy 1 Get 1 Free on Dog Accessories</h2>
+    <button class="normal">Explore More</button>
+</section>
+
+
+<section id="product1" class="section-p1">
+    <h2>New Winter Collection</h2>
+    <p>Sweaters, Jackets and Hoodies for you pets</p>
+    <div class="pro-container">
+        <div class="pro">
+            <img src="img/products/n1.png" alt="">
+            <div class="des">
+                <span>Pet kingdom</span>
+                <h5>Adult dog sweater (Red)</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                   
+
+                </div>
+                <h4>Rs 880</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/n2.jpg" alt="">
+            <div class="des">
+                <span>Poochmate</span>
+                <h5>Poochmate dog hoodie</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    
+
+                </div>
+                <h4>Rs 660</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/n3.png" alt="">
+            <div class="des">
+                <span>Poochmate</span>
+                <h5>Poochmate dog hoodies (Set of 2)</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    
+
+                </div>
+                <h4>Rs 1620</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/n4.png" alt="">
+            <div class="des">
+                <span>Heads-to-Tails</span>
+                <h5>Blue handknitted sweater (XL)</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+
+                </div>
+                <h4>Rs 1200</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/n5.png" alt="">
+            <div class="des">
+                <span>Paws India</span>
+                <h5>Dog bow (Blue)</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+
+                </div>
+                <h4>Rs 420</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/n6.jpg" alt="">
+            <div class="des">
+                <span>Poochmates</span>
+                <h5>Dog tie (Black)</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    
+
+                </div>
+                <h4>Rs 280</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/n7.jpg" alt="">
+            <div class="des">
+                <span>Heads-to-Tails</span>
+                <h5>Dog bandana (Black)</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+
+                </div>
+                <h4>Rs 350</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        <div class="pro">
+            <img src="img/products/n8.jpg" alt="">
+            <div class="des">
+                <span>Heads-to-Tails</span>
+                <h5>Dog bow</h5>
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+
+                </div>
+                <h4>Rs 280</h4>
+            </div>
+            <a href="#"><i class="fa fa-shopping-cart" class="cart"></i></a>
+        </div>
+
+        
+    </div>
+
+
+    
+
+
+
+
+</section>
+
+
+<section id="sm-banner" class="section-p1">
+    <div class="banner-box">
+       
+        
+    </div>
+
+    <div class="banner-box1">
+        
+        
+    </div>
+
+</section>
+
+
+<section id="banner3">
+    <div class="banner-box">
+    
+    </div>
+
+    <div class="banner-box2">
+        
+        </div>
+
+        <div class="banner-box3">
+            
+            </div>
+
+
+    
+</section>
+
+
+<section id="newsletter" class="section-p1 section-m1">
+
+<div class="newstext">
+    <h4>Sign Up For Newsletters</h4>
+    <p>Get E-mail updates about our latest shop and special offers.</p>
+</div>
+
+<div class="form">  
+    <input type="text" placeholder="Your email address">
+    <button class="normal">Sign-Up</button> 
+</div>
+
+</section>
+
+<footer class="section-p1" id="contactus">
+<div class="col">
+
+    <button>&nbsp&nbsp&nbspHeads-to-Tails &nbsp <i class="fa-solid fa-dog"></i> </button>
+    <br>
+    <br>
+    <br>
+    <h4>Contact</h4>
+    <p><strong>Address:</strong> 72 DK Devsthali, E-8 Arera Colony, Near dana Pani Restaurant, Bhopal, Madhya Pradesh</p>
+    <p><strong>phone:</strong> +0755 4949494 /(+91) 9876556780</p>
+    <p><strong>Hours:</strong> 10:00 - 20:00, Mon - Sat</p>
+    
+    <div class="follow">
+        <h4><br>Follow us</h4>
+        <div class="icon">
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-youtube"></i>
+        </div> 
+    </div>
+
+</div>
+
+<div class="col">
+    <h4>About</h4>
+    <a href="#">About Us</a>
+    <a href="#">Terms & Conditions</a>
+    <a href="#">Privacy Policy</a>
+    <a href="#">Contact Us</a>
+</div>
+
+<div class="col">
+    <h4>My Account</h4>
+    <a href="#">Sign-In</a>
+    <a href="#">Tracy My Order</a>
+    <a href="#">My Wishlist</a>
+    <a href="#">Help</a>
+</div>
+
+<div class="col install">
+    <h4>Install Our App</h4>
+    <p>Available on App Store and Google Play Store</p>
+    <div class="row">
+        <img src="img/pay/app.jpg" alt="">
+        <img src="img/pay/play.jpg" alt="">
+    </div>
+        <p>Secure Payment Options</p>
+        <img src="img/pay/pay.png">
+ 
+    </div>
+
+<div class="copyright">
+    <p>&#169;   2023  Heads-to-Tails <span>by Tanishq Raghuvanshi</span></p>
+</div>
+
+
+
+</footer>
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+2. Loginpage
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/1941c615a0.js" crossorigin="anonymous"></script>
+    <link rel="icon" href="img/favicon.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="Stylesheet" href="sheet2.css">
+    <title>Login Heads-to-Tails</title>
+</head>
+<body>
+    <section id="header">
+        <a href="#"><img src="img/logo.jpg" class="logo" alt=""> </a>
+        <div>
+            <ul id="navbar">
+                <button>Heads-to-Tails &nbsp <i class="fa-solid fa-dog"></i> </button>
+                <li><a class="active" href="index.html">Home</a></li>
+                <li><a href="#product1">Shop</a></li>
+                <li><a href="https://sitstay.com/blogs/good-dog-blog">Blog</a></li>
+                <li><a href="#contactus">About</a></li>
+                <li><a href="#contactus">Contact</a></li>
+                <li><a href="cart.html"><i class="fa-solid fa-cart-shopping" style="color: #030507;"></i></a></li>
+            </ul>
+        </div>
+    </section>
+
+    
+<section class= "login">
+
+<form>
+
+    <input type="text" placeholder="Enter mobile number or email eddress" class= "email">
+    <input type="password" placeholder="password" class= "password">
+
+    <button class= "loginbutton">LOGIN</button>
+
+    <a class= "forgetpwd">Forgotten Password?</a>
+
+    
+
+    <hr>
+
+    
+
+</form>
+
+<a class= "create">Dont have an account? Sign Up here!</a>
+
+
+</section>
+    
+    
+</body>
+</html>
+
+
+
+
+
+
+
+3. CSS sheet 1
+
+
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Spartan", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Global Styles */
+
+h1 {
+  font-size: 50px;
+  line-height: 64px;
+  color: #222;
+}
+
+h2 {
+  font-size: 46px;
+  line-height: 54px;
+  color: #222;
+}
+
+h4 {
+  font-size: 20px;
+  color: #222;
+}
+
+h6 {
+  font-weight: 700;
+  font-size: 12px;
+}
+
+p {
+  font-size: 16px;
+  color: #465b52;
+  margin: 15px 0 20px 0;
+}
+
+.section-p1 {
+  padding: 40px 80px;
+}
+
+.section-m1 {
+  margin: 40px 0;
+}
+
+body {
+  width: 100%;
+}
+
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    background: #E3E6F3;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0);
+    z-index: 999;
+    position: sticky;
+    top: 0;
+    left: 0;
+
+}
+
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#navbar li{
+    list-style:none ;
+    padding: 0px 20px;
+
+}
+
+#navbar li a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #1a1a1a;
+}
+
+#navbar li a:hover{
+    color: #088178;
+    transition: 0.3sec ease;
+}
+
+#navbar li a:hover,
+#navbar li a.active{
+    color: #088178;
+}
+
+#hero{
+    background-image: url("img/hero4.jpg");
+    height: 90vh;
+    width: 100%
+    background-size: cover;
+    background-position: top 25% right 0;
+    padding: 0 80px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    background-repeat: no-repeat;
+    
+    
+    }
+
+
+#hero h4{
+ padding bottom: 15px;
+ color: black; 
+
+}
+
+#hero h1{
+  color: black ;
+}
+
+#hero h2{
+  color: black;
+}
+#hero button{
+ 
+  background-color: transparent;
+  color: black;
+  border: solid black 2px;
+  
+  padding: 14px 40px 14px 40px;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 15px ;
+}
+
+#hero p{
+  color: black;
+  ;
+}
+
+#features .fe-box{
+  width: 180px;
+  height: 140px;
+  text-align: center;
+  padding: 25px 15px;
+  box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
+  border: 1px solid #cce7d0;
+  border-radius: 4px;
+  margin: 15px 0;
+
+ 
+}
+
+#features .fe-box:hover{
+  box-shadow: 10px 10px 54px rgba(70, 62, 221, 0.1);
+}
+
+#features .fe-box h6{
+  padding: 9px 8px 6px 8px;
+  line-height: 1;
+  border-radius: 4px;
+  color: #088178;
+  background-color: #fddde4;
+  display: inline-block;
+}
+
+#features .fe-box img{
+  width: 100%;
+  margin-bottom: 10px;
+
+}
+
+#features{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+
+#product1{
+  text-align: center;
+}
+
+#product1 .pro{
+  width:23% ;
+  min-width: 250px;
+  padding: 10px 12px;
+  border: 1px solid #cce7d0;
+  border-radius: 25px;
+  cursor: pointer;
+  box-shadow: 2opx 20px 30px rgba(0, 0, 0, 0.02);
+  margin: 15px 0;
+  transition: 0.2s ease;
+  position: relative;
+
+}
+
+#product1 .pro:hover{
+  box-shadow: 2opx 20px 30px rgba(0, 0, 0, 0.06);
+
+}
+
+#product1 .pro img{
+  width: 100%;
+  border-radius: 20px;
+
+}
+
+#product1 .pro .des{
+  text-align: start;
+  padding: 10px 0;
+}
+
+#product1 .pro .des span{
+  color: #606063;
+  font-size: 12px;
+}
+
+#product1 .pro .des h5{
+  padding-top: 7px;
+  color: #1a1a1a;
+  font-size: 14px;
+
+}
+
+#product1 .pro .des i{
+  font-size: 12px;
+  color: rgb(243, 181, 25);
+} 
+
+
+#product1 .pro .cart{
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50px;
+  background-color: #e8f6ea;
+  font-weight: 500;
+  color: #088178;
+  border: 1px solid #cce7d0;
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+
+
+}
+
+#product1 .pro-container{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  flex-wrap: wrap;
+}
+
+
+#banner{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url(img/banner/b2.jpg); 
+  width: 100%;
+  height: 40vh;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#banner h4{
+  color: black;
+  font-size: 16px;
+  
+}
+
+#banner h2{
+  color: black;
+  font-size: 30px;
+  padding: 10px 0;
+
+  
+}
+
+button.normal{
+  font-size: 14px;
+  font-weight: 600;
+  padding: 15px 30px;
+  color: #000;
+  background-color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  transition: 0.2s;
+  
+}
+
+
+#sm-banner .banner-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url(img/banner/b17.png); 
+  min-width: 650px;
+  height: 40vh;
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+
+}
+
+#sm-banner .banner-box1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url(img/banner/b18.png); 
+  min-width: 650px;
+  height: 40vh;
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+
+}
+
+#sm-banner{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+}
+
+
+#sm-banner button{
+  font-size: 14px;
+  font-weight: 600;
+  padding: 15px 30px;
+  color: #000;
+  background-color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  transition: 0.2s;
+}
+
+
+
+#navbar button{
+  background: none;
+  border: none;
+font-family: fantasy;
+font-size: 30px;
+color: black;
+cursor: pointer;
+display: flex;
+position: absolute;
+left: 60px;
+
+}
+
+#navbar button:hover{
+
+  color:#1a1a1a;
+}
+
+
+#banner3 .banner-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url(img/banner/l2.jpg); 
+  min-width: 30%;
+  height: 30vh;
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#banner3 .banner-box2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url(img/banner/l3.png); 
+  min-width: 30%;
+  height: 30vh;
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#banner3 .banner-box3{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url(img/banner/l1.jpg); 
+  min-width: 30%;
+  height: 30vh;
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#banner3 h2{
+  color: white;
+  font-weight: 900;
+  font-size: 22px;
+}
+
+#banner3 h3{
+  color: #ec544e;
+  font-weight: 800;
+  font-size: 15px;
+}
+
+#banner3{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 0 80px;
+}
+
+
+#newsletter{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  background-image: url("img/banner/b14.png");
+  background-repeat: no-repeat;
+  background-position: 20% 30%;
+  background-color: #041e42;
+
+}
+
+#newsletter h4{
+  font-size: 22px;
+  font-weight: 700;
+  color: white;
+
+}
+
+#newsletter p{
+  font-size: 14px;
+  font-weight: 600;
+  color: #818ea0;
+  
+}
+
+
+#newsletter input{
+  height: 3.125rem;
+  padding: 0 1.25em;
+  font-size: 14px;
+  width: 100%;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  outline: none;
+
+
+}
+
+
+#newsletter button{
+  background-color: #088178;
+  color: white;
+  white-space: nowrap;
+
+}
+
+#newsletter .form{
+  display: flex;
+  width: 40%;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+ 
+}
+
+
+
+footer button{
+  background: none;
+  border: none;
+font-family: fantasy;
+font-size: 30px;
+color: black;
+cursor: pointer;
+display: flex;
+position: absolute;
+left: 60px;
+}
+
+.copyright span{
+  font-weight: 250;
+}
+
+footer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+footer .col{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+
+footer h4{
+  font-size: 14px;
+  padding-bottom: 20px;
+}
+
+footer p{
+  font-size: 13px;
+  margin: 0 0 8px 0;
+
+}
+
+footer a{
+  font-size: 13px;
+  text-decoration: none;
+  color: #222;
+  margin-bottom: 10px;
+}
+
+footer .follow i{
+color: #465b52;
+padding-right: 4px;
+cursor: pointer;
+}
+
+footer .install .row img{
+  border: 1px solid #088178;
+  border-radius: 6px; 
+  cursor: pointer;
+
+}
+
+footer .install img{
+  margin: 10px 0 15px 0;
+   
+}
+
+footer .follow i:hover{
+  color: #088178;
+
+}
+
+footer .copyright{
+  width: 100%;
+  text-align: center;
+}
+
+
+
+
+
+4. CSS Sheet 2
+
+
+
+
+
+/*body{
+    height: 760px;
+    background-image: url("login2.jpg");
+    background-size: cover;
+
+}*/
+
+body{
+    background-image: url(img/hero4.jpg);
+}
+
+
+.login{
+    height: 350px;
+    width: 500px;
+    background-color: rgb(228, 217, 57);
+    position: absolute;
+    left: 500px;
+    top: 150px;
+    border-radius: 2%;
+    /*background-image: url(img/hero4.jpg);*/
+
+}
+
+
+
+.email{
+    height: 50px;
+    width: 400px;
+    position: absolute;
+    top: 50px;
+    left:50px;
+    border: 2px solid #dddfe2;
+    border-radius: 8px;
+}
+
+.password{
+    height: 50px;
+    width: 400px;
+    position: absolute;
+    top: 120px;
+    left:50px;
+    border: 2px solid #dddfe2;
+    border-radius: 8px;
+}
+
+.navbar-brand{
+    margin-left: 12px;
+    color: purple;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.loginbutton{
+    height: 50px;
+    width: 180px;
+    background-color: purple;
+    color:white;
+    font-weight: 600;
+    font-size: large;
+    border: 2%;
+    position: absolute;
+    left: 150px;
+    top: 200px;
+    border: 1px solid purple ;
+    
+}
+
+.forgetpwd{
+    position: absolute;
+    top: 260px;
+    left: 170px;
+    cursor: pointer;
+    
+}
+
+hr{
+    position: relative;
+    top: 280px;
+
+}
+
+.create{
+    position: absolute;
+    top: 310px;
+    left: 110px;
+    font-size: large;
+    color: black;
+    cursor: pointer;
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
